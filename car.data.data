@@ -1,1728 +1,538 @@
-vhigh,vhigh,2,2,small,low,unacc
-vhigh,vhigh,2,2,small,med,unacc
-vhigh,vhigh,2,2,small,high,unacc
-vhigh,vhigh,2,2,med,low,unacc
-vhigh,vhigh,2,2,med,med,unacc
-vhigh,vhigh,2,2,med,high,unacc
-vhigh,vhigh,2,2,big,low,unacc
-vhigh,vhigh,2,2,big,med,unacc
-vhigh,vhigh,2,2,big,high,unacc
-vhigh,vhigh,2,4,small,low,unacc
-vhigh,vhigh,2,4,small,med,unacc
-vhigh,vhigh,2,4,small,high,unacc
-vhigh,vhigh,2,4,med,low,unacc
-vhigh,vhigh,2,4,med,med,unacc
-vhigh,vhigh,2,4,med,high,unacc
-vhigh,vhigh,2,4,big,low,unacc
-vhigh,vhigh,2,4,big,med,unacc
-vhigh,vhigh,2,4,big,high,unacc
-vhigh,vhigh,2,more,small,low,unacc
-vhigh,vhigh,2,more,small,med,unacc
-vhigh,vhigh,2,more,small,high,unacc
-vhigh,vhigh,2,more,med,low,unacc
-vhigh,vhigh,2,more,med,med,unacc
-vhigh,vhigh,2,more,med,high,unacc
-vhigh,vhigh,2,more,big,low,unacc
-vhigh,vhigh,2,more,big,med,unacc
-vhigh,vhigh,2,more,big,high,unacc
-vhigh,vhigh,3,2,small,low,unacc
-vhigh,vhigh,3,2,small,med,unacc
-vhigh,vhigh,3,2,small,high,unacc
-vhigh,vhigh,3,2,med,low,unacc
-vhigh,vhigh,3,2,med,med,unacc
-vhigh,vhigh,3,2,med,high,unacc
-vhigh,vhigh,3,2,big,low,unacc
-vhigh,vhigh,3,2,big,med,unacc
-vhigh,vhigh,3,2,big,high,unacc
-vhigh,vhigh,3,4,small,low,unacc
-vhigh,vhigh,3,4,small,med,unacc
-vhigh,vhigh,3,4,small,high,unacc
-vhigh,vhigh,3,4,med,low,unacc
-vhigh,vhigh,3,4,med,med,unacc
-vhigh,vhigh,3,4,med,high,unacc
-vhigh,vhigh,3,4,big,low,unacc
-vhigh,vhigh,3,4,big,med,unacc
-vhigh,vhigh,3,4,big,high,unacc
-vhigh,vhigh,3,more,small,low,unacc
-vhigh,vhigh,3,more,small,med,unacc
-vhigh,vhigh,3,more,small,high,unacc
-vhigh,vhigh,3,more,med,low,unacc
-vhigh,vhigh,3,more,med,med,unacc
-vhigh,vhigh,3,more,med,high,unacc
-vhigh,vhigh,3,more,big,low,unacc
-vhigh,vhigh,3,more,big,med,unacc
-vhigh,vhigh,3,more,big,high,unacc
-vhigh,vhigh,4,2,small,low,unacc
-vhigh,vhigh,4,2,small,med,unacc
-vhigh,vhigh,4,2,small,high,unacc
-vhigh,vhigh,4,2,med,low,unacc
-vhigh,vhigh,4,2,med,med,unacc
-vhigh,vhigh,4,2,med,high,unacc
-vhigh,vhigh,4,2,big,low,unacc
-vhigh,vhigh,4,2,big,med,unacc
-vhigh,vhigh,4,2,big,high,unacc
-vhigh,vhigh,4,4,small,low,unacc
-vhigh,vhigh,4,4,small,med,unacc
-vhigh,vhigh,4,4,small,high,unacc
-vhigh,vhigh,4,4,med,low,unacc
-vhigh,vhigh,4,4,med,med,unacc
-vhigh,vhigh,4,4,med,high,unacc
-vhigh,vhigh,4,4,big,low,unacc
-vhigh,vhigh,4,4,big,med,unacc
-vhigh,vhigh,4,4,big,high,unacc
-vhigh,vhigh,4,more,small,low,unacc
-vhigh,vhigh,4,more,small,med,unacc
-vhigh,vhigh,4,more,small,high,unacc
-vhigh,vhigh,4,more,med,low,unacc
-vhigh,vhigh,4,more,med,med,unacc
-vhigh,vhigh,4,more,med,high,unacc
-vhigh,vhigh,4,more,big,low,unacc
-vhigh,vhigh,4,more,big,med,unacc
-vhigh,vhigh,4,more,big,high,unacc
-vhigh,vhigh,5more,2,small,low,unacc
-vhigh,vhigh,5more,2,small,med,unacc
-vhigh,vhigh,5more,2,small,high,unacc
-vhigh,vhigh,5more,2,med,low,unacc
-vhigh,vhigh,5more,2,med,med,unacc
-vhigh,vhigh,5more,2,med,high,unacc
-vhigh,vhigh,5more,2,big,low,unacc
-vhigh,vhigh,5more,2,big,med,unacc
-vhigh,vhigh,5more,2,big,high,unacc
-vhigh,vhigh,5more,4,small,low,unacc
-vhigh,vhigh,5more,4,small,med,unacc
-vhigh,vhigh,5more,4,small,high,unacc
-vhigh,vhigh,5more,4,med,low,unacc
-vhigh,vhigh,5more,4,med,med,unacc
-vhigh,vhigh,5more,4,med,high,unacc
-vhigh,vhigh,5more,4,big,low,unacc
-vhigh,vhigh,5more,4,big,med,unacc
-vhigh,vhigh,5more,4,big,high,unacc
-vhigh,vhigh,5more,more,small,low,unacc
-vhigh,vhigh,5more,more,small,med,unacc
-vhigh,vhigh,5more,more,small,high,unacc
-vhigh,vhigh,5more,more,med,low,unacc
-vhigh,vhigh,5more,more,med,med,unacc
-vhigh,vhigh,5more,more,med,high,unacc
-vhigh,vhigh,5more,more,big,low,unacc
-vhigh,vhigh,5more,more,big,med,unacc
-vhigh,vhigh,5more,more,big,high,unacc
-vhigh,high,2,2,small,low,unacc
-vhigh,high,2,2,small,med,unacc
-vhigh,high,2,2,small,high,unacc
-vhigh,high,2,2,med,low,unacc
-vhigh,high,2,2,med,med,unacc
-vhigh,high,2,2,med,high,unacc
-vhigh,high,2,2,big,low,unacc
-vhigh,high,2,2,big,med,unacc
-vhigh,high,2,2,big,high,unacc
-vhigh,high,2,4,small,low,unacc
-vhigh,high,2,4,small,med,unacc
-vhigh,high,2,4,small,high,unacc
-vhigh,high,2,4,med,low,unacc
-vhigh,high,2,4,med,med,unacc
-vhigh,high,2,4,med,high,unacc
-vhigh,high,2,4,big,low,unacc
-vhigh,high,2,4,big,med,unacc
-vhigh,high,2,4,big,high,unacc
-vhigh,high,2,more,small,low,unacc
-vhigh,high,2,more,small,med,unacc
-vhigh,high,2,more,small,high,unacc
-vhigh,high,2,more,med,low,unacc
-vhigh,high,2,more,med,med,unacc
-vhigh,high,2,more,med,high,unacc
-vhigh,high,2,more,big,low,unacc
-vhigh,high,2,more,big,med,unacc
-vhigh,high,2,more,big,high,unacc
-vhigh,high,3,2,small,low,unacc
-vhigh,high,3,2,small,med,unacc
-vhigh,high,3,2,small,high,unacc
-vhigh,high,3,2,med,low,unacc
-vhigh,high,3,2,med,med,unacc
-vhigh,high,3,2,med,high,unacc
-vhigh,high,3,2,big,low,unacc
-vhigh,high,3,2,big,med,unacc
-vhigh,high,3,2,big,high,unacc
-vhigh,high,3,4,small,low,unacc
-vhigh,high,3,4,small,med,unacc
-vhigh,high,3,4,small,high,unacc
-vhigh,high,3,4,med,low,unacc
-vhigh,high,3,4,med,med,unacc
-vhigh,high,3,4,med,high,unacc
-vhigh,high,3,4,big,low,unacc
-vhigh,high,3,4,big,med,unacc
-vhigh,high,3,4,big,high,unacc
-vhigh,high,3,more,small,low,unacc
-vhigh,high,3,more,small,med,unacc
-vhigh,high,3,more,small,high,unacc
-vhigh,high,3,more,med,low,unacc
-vhigh,high,3,more,med,med,unacc
-vhigh,high,3,more,med,high,unacc
-vhigh,high,3,more,big,low,unacc
-vhigh,high,3,more,big,med,unacc
-vhigh,high,3,more,big,high,unacc
-vhigh,high,4,2,small,low,unacc
-vhigh,high,4,2,small,med,unacc
-vhigh,high,4,2,small,high,unacc
-vhigh,high,4,2,med,low,unacc
-vhigh,high,4,2,med,med,unacc
-vhigh,high,4,2,med,high,unacc
-vhigh,high,4,2,big,low,unacc
-vhigh,high,4,2,big,med,unacc
-vhigh,high,4,2,big,high,unacc
-vhigh,high,4,4,small,low,unacc
-vhigh,high,4,4,small,med,unacc
-vhigh,high,4,4,small,high,unacc
-vhigh,high,4,4,med,low,unacc
-vhigh,high,4,4,med,med,unacc
-vhigh,high,4,4,med,high,unacc
-vhigh,high,4,4,big,low,unacc
-vhigh,high,4,4,big,med,unacc
-vhigh,high,4,4,big,high,unacc
-vhigh,high,4,more,small,low,unacc
-vhigh,high,4,more,small,med,unacc
-vhigh,high,4,more,small,high,unacc
-vhigh,high,4,more,med,low,unacc
-vhigh,high,4,more,med,med,unacc
-vhigh,high,4,more,med,high,unacc
-vhigh,high,4,more,big,low,unacc
-vhigh,high,4,more,big,med,unacc
-vhigh,high,4,more,big,high,unacc
-vhigh,high,5more,2,small,low,unacc
-vhigh,high,5more,2,small,med,unacc
-vhigh,high,5more,2,small,high,unacc
-vhigh,high,5more,2,med,low,unacc
-vhigh,high,5more,2,med,med,unacc
-vhigh,high,5more,2,med,high,unacc
-vhigh,high,5more,2,big,low,unacc
-vhigh,high,5more,2,big,med,unacc
-vhigh,high,5more,2,big,high,unacc
-vhigh,high,5more,4,small,low,unacc
-vhigh,high,5more,4,small,med,unacc
-vhigh,high,5more,4,small,high,unacc
-vhigh,high,5more,4,med,low,unacc
-vhigh,high,5more,4,med,med,unacc
-vhigh,high,5more,4,med,high,unacc
-vhigh,high,5more,4,big,low,unacc
-vhigh,high,5more,4,big,med,unacc
-vhigh,high,5more,4,big,high,unacc
-vhigh,high,5more,more,small,low,unacc
-vhigh,high,5more,more,small,med,unacc
-vhigh,high,5more,more,small,high,unacc
-vhigh,high,5more,more,med,low,unacc
-vhigh,high,5more,more,med,med,unacc
-vhigh,high,5more,more,med,high,unacc
-vhigh,high,5more,more,big,low,unacc
-vhigh,high,5more,more,big,med,unacc
-vhigh,high,5more,more,big,high,unacc
-vhigh,med,2,2,small,low,unacc
-vhigh,med,2,2,small,med,unacc
-vhigh,med,2,2,small,high,unacc
-vhigh,med,2,2,med,low,unacc
-vhigh,med,2,2,med,med,unacc
-vhigh,med,2,2,med,high,unacc
-vhigh,med,2,2,big,low,unacc
-vhigh,med,2,2,big,med,unacc
-vhigh,med,2,2,big,high,unacc
-vhigh,med,2,4,small,low,unacc
-vhigh,med,2,4,small,med,unacc
-vhigh,med,2,4,small,high,acc
-vhigh,med,2,4,med,low,unacc
-vhigh,med,2,4,med,med,unacc
-vhigh,med,2,4,med,high,acc
-vhigh,med,2,4,big,low,unacc
-vhigh,med,2,4,big,med,acc
-vhigh,med,2,4,big,high,acc
-vhigh,med,2,more,small,low,unacc
-vhigh,med,2,more,small,med,unacc
-vhigh,med,2,more,small,high,unacc
-vhigh,med,2,more,med,low,unacc
-vhigh,med,2,more,med,med,unacc
-vhigh,med,2,more,med,high,acc
-vhigh,med,2,more,big,low,unacc
-vhigh,med,2,more,big,med,acc
-vhigh,med,2,more,big,high,acc
-vhigh,med,3,2,small,low,unacc
-vhigh,med,3,2,small,med,unacc
-vhigh,med,3,2,small,high,unacc
-vhigh,med,3,2,med,low,unacc
-vhigh,med,3,2,med,med,unacc
-vhigh,med,3,2,med,high,unacc
-vhigh,med,3,2,big,low,unacc
-vhigh,med,3,2,big,med,unacc
-vhigh,med,3,2,big,high,unacc
-vhigh,med,3,4,small,low,unacc
-vhigh,med,3,4,small,med,unacc
-vhigh,med,3,4,small,high,acc
-vhigh,med,3,4,med,low,unacc
-vhigh,med,3,4,med,med,unacc
-vhigh,med,3,4,med,high,acc
-vhigh,med,3,4,big,low,unacc
-vhigh,med,3,4,big,med,acc
-vhigh,med,3,4,big,high,acc
-vhigh,med,3,more,small,low,unacc
-vhigh,med,3,more,small,med,unacc
-vhigh,med,3,more,small,high,acc
-vhigh,med,3,more,med,low,unacc
-vhigh,med,3,more,med,med,acc
-vhigh,med,3,more,med,high,acc
-vhigh,med,3,more,big,low,unacc
-vhigh,med,3,more,big,med,acc
-vhigh,med,3,more,big,high,acc
-vhigh,med,4,2,small,low,unacc
-vhigh,med,4,2,small,med,unacc
-vhigh,med,4,2,small,high,unacc
-vhigh,med,4,2,med,low,unacc
-vhigh,med,4,2,med,med,unacc
-vhigh,med,4,2,med,high,unacc
-vhigh,med,4,2,big,low,unacc
-vhigh,med,4,2,big,med,unacc
-vhigh,med,4,2,big,high,unacc
-vhigh,med,4,4,small,low,unacc
-vhigh,med,4,4,small,med,unacc
-vhigh,med,4,4,small,high,acc
-vhigh,med,4,4,med,low,unacc
-vhigh,med,4,4,med,med,acc
-vhigh,med,4,4,med,high,acc
-vhigh,med,4,4,big,low,unacc
-vhigh,med,4,4,big,med,acc
-vhigh,med,4,4,big,high,acc
-vhigh,med,4,more,small,low,unacc
-vhigh,med,4,more,small,med,unacc
-vhigh,med,4,more,small,high,acc
-vhigh,med,4,more,med,low,unacc
-vhigh,med,4,more,med,med,acc
-vhigh,med,4,more,med,high,acc
-vhigh,med,4,more,big,low,unacc
-vhigh,med,4,more,big,med,acc
-vhigh,med,4,more,big,high,acc
-vhigh,med,5more,2,small,low,unacc
-vhigh,med,5more,2,small,med,unacc
-vhigh,med,5more,2,small,high,unacc
-vhigh,med,5more,2,med,low,unacc
-vhigh,med,5more,2,med,med,unacc
-vhigh,med,5more,2,med,high,unacc
-vhigh,med,5more,2,big,low,unacc
-vhigh,med,5more,2,big,med,unacc
-vhigh,med,5more,2,big,high,unacc
-vhigh,med,5more,4,small,low,unacc
-vhigh,med,5more,4,small,med,unacc
-vhigh,med,5more,4,small,high,acc
-vhigh,med,5more,4,med,low,unacc
-vhigh,med,5more,4,med,med,acc
-vhigh,med,5more,4,med,high,acc
-vhigh,med,5more,4,big,low,unacc
-vhigh,med,5more,4,big,med,acc
-vhigh,med,5more,4,big,high,acc
-vhigh,med,5more,more,small,low,unacc
-vhigh,med,5more,more,small,med,unacc
-vhigh,med,5more,more,small,high,acc
-vhigh,med,5more,more,med,low,unacc
-vhigh,med,5more,more,med,med,acc
-vhigh,med,5more,more,med,high,acc
-vhigh,med,5more,more,big,low,unacc
-vhigh,med,5more,more,big,med,acc
-vhigh,med,5more,more,big,high,acc
-vhigh,low,2,2,small,low,unacc
-vhigh,low,2,2,small,med,unacc
-vhigh,low,2,2,small,high,unacc
-vhigh,low,2,2,med,low,unacc
-vhigh,low,2,2,med,med,unacc
-vhigh,low,2,2,med,high,unacc
-vhigh,low,2,2,big,low,unacc
-vhigh,low,2,2,big,med,unacc
-vhigh,low,2,2,big,high,unacc
-vhigh,low,2,4,small,low,unacc
-vhigh,low,2,4,small,med,unacc
-vhigh,low,2,4,small,high,acc
-vhigh,low,2,4,med,low,unacc
-vhigh,low,2,4,med,med,unacc
-vhigh,low,2,4,med,high,acc
-vhigh,low,2,4,big,low,unacc
-vhigh,low,2,4,big,med,acc
-vhigh,low,2,4,big,high,acc
-vhigh,low,2,more,small,low,unacc
-vhigh,low,2,more,small,med,unacc
-vhigh,low,2,more,small,high,unacc
-vhigh,low,2,more,med,low,unacc
-vhigh,low,2,more,med,med,unacc
-vhigh,low,2,more,med,high,acc
-vhigh,low,2,more,big,low,unacc
-vhigh,low,2,more,big,med,acc
-vhigh,low,2,more,big,high,acc
-vhigh,low,3,2,small,low,unacc
-vhigh,low,3,2,small,med,unacc
-vhigh,low,3,2,small,high,unacc
-vhigh,low,3,2,med,low,unacc
-vhigh,low,3,2,med,med,unacc
-vhigh,low,3,2,med,high,unacc
-vhigh,low,3,2,big,low,unacc
-vhigh,low,3,2,big,med,unacc
-vhigh,low,3,2,big,high,unacc
-vhigh,low,3,4,small,low,unacc
-vhigh,low,3,4,small,med,unacc
-vhigh,low,3,4,small,high,acc
-vhigh,low,3,4,med,low,unacc
-vhigh,low,3,4,med,med,unacc
-vhigh,low,3,4,med,high,acc
-vhigh,low,3,4,big,low,unacc
-vhigh,low,3,4,big,med,acc
-vhigh,low,3,4,big,high,acc
-vhigh,low,3,more,small,low,unacc
-vhigh,low,3,more,small,med,unacc
-vhigh,low,3,more,small,high,acc
-vhigh,low,3,more,med,low,unacc
-vhigh,low,3,more,med,med,acc
-vhigh,low,3,more,med,high,acc
-vhigh,low,3,more,big,low,unacc
-vhigh,low,3,more,big,med,acc
-vhigh,low,3,more,big,high,acc
-vhigh,low,4,2,small,low,unacc
-vhigh,low,4,2,small,med,unacc
-vhigh,low,4,2,small,high,unacc
-vhigh,low,4,2,med,low,unacc
-vhigh,low,4,2,med,med,unacc
-vhigh,low,4,2,med,high,unacc
-vhigh,low,4,2,big,low,unacc
-vhigh,low,4,2,big,med,unacc
-vhigh,low,4,2,big,high,unacc
-vhigh,low,4,4,small,low,unacc
-vhigh,low,4,4,small,med,unacc
-vhigh,low,4,4,small,high,acc
-vhigh,low,4,4,med,low,unacc
-vhigh,low,4,4,med,med,acc
-vhigh,low,4,4,med,high,acc
-vhigh,low,4,4,big,low,unacc
-vhigh,low,4,4,big,med,acc
-vhigh,low,4,4,big,high,acc
-vhigh,low,4,more,small,low,unacc
-vhigh,low,4,more,small,med,unacc
-vhigh,low,4,more,small,high,acc
-vhigh,low,4,more,med,low,unacc
-vhigh,low,4,more,med,med,acc
-vhigh,low,4,more,med,high,acc
-vhigh,low,4,more,big,low,unacc
-vhigh,low,4,more,big,med,acc
-vhigh,low,4,more,big,high,acc
-vhigh,low,5more,2,small,low,unacc
-vhigh,low,5more,2,small,med,unacc
-vhigh,low,5more,2,small,high,unacc
-vhigh,low,5more,2,med,low,unacc
-vhigh,low,5more,2,med,med,unacc
-vhigh,low,5more,2,med,high,unacc
-vhigh,low,5more,2,big,low,unacc
-vhigh,low,5more,2,big,med,unacc
-vhigh,low,5more,2,big,high,unacc
-vhigh,low,5more,4,small,low,unacc
-vhigh,low,5more,4,small,med,unacc
-vhigh,low,5more,4,small,high,acc
-vhigh,low,5more,4,med,low,unacc
-vhigh,low,5more,4,med,med,acc
-vhigh,low,5more,4,med,high,acc
-vhigh,low,5more,4,big,low,unacc
-vhigh,low,5more,4,big,med,acc
-vhigh,low,5more,4,big,high,acc
-vhigh,low,5more,more,small,low,unacc
-vhigh,low,5more,more,small,med,unacc
-vhigh,low,5more,more,small,high,acc
-vhigh,low,5more,more,med,low,unacc
-vhigh,low,5more,more,med,med,acc
-vhigh,low,5more,more,med,high,acc
-vhigh,low,5more,more,big,low,unacc
-vhigh,low,5more,more,big,med,acc
-vhigh,low,5more,more,big,high,acc
-high,vhigh,2,2,small,low,unacc
-high,vhigh,2,2,small,med,unacc
-high,vhigh,2,2,small,high,unacc
-high,vhigh,2,2,med,low,unacc
-high,vhigh,2,2,med,med,unacc
-high,vhigh,2,2,med,high,unacc
-high,vhigh,2,2,big,low,unacc
-high,vhigh,2,2,big,med,unacc
-high,vhigh,2,2,big,high,unacc
-high,vhigh,2,4,small,low,unacc
-high,vhigh,2,4,small,med,unacc
-high,vhigh,2,4,small,high,unacc
-high,vhigh,2,4,med,low,unacc
-high,vhigh,2,4,med,med,unacc
-high,vhigh,2,4,med,high,unacc
-high,vhigh,2,4,big,low,unacc
-high,vhigh,2,4,big,med,unacc
-high,vhigh,2,4,big,high,unacc
-high,vhigh,2,more,small,low,unacc
-high,vhigh,2,more,small,med,unacc
-high,vhigh,2,more,small,high,unacc
-high,vhigh,2,more,med,low,unacc
-high,vhigh,2,more,med,med,unacc
-high,vhigh,2,more,med,high,unacc
-high,vhigh,2,more,big,low,unacc
-high,vhigh,2,more,big,med,unacc
-high,vhigh,2,more,big,high,unacc
-high,vhigh,3,2,small,low,unacc
-high,vhigh,3,2,small,med,unacc
-high,vhigh,3,2,small,high,unacc
-high,vhigh,3,2,med,low,unacc
-high,vhigh,3,2,med,med,unacc
-high,vhigh,3,2,med,high,unacc
-high,vhigh,3,2,big,low,unacc
-high,vhigh,3,2,big,med,unacc
-high,vhigh,3,2,big,high,unacc
-high,vhigh,3,4,small,low,unacc
-high,vhigh,3,4,small,med,unacc
-high,vhigh,3,4,small,high,unacc
-high,vhigh,3,4,med,low,unacc
-high,vhigh,3,4,med,med,unacc
-high,vhigh,3,4,med,high,unacc
-high,vhigh,3,4,big,low,unacc
-high,vhigh,3,4,big,med,unacc
-high,vhigh,3,4,big,high,unacc
-high,vhigh,3,more,small,low,unacc
-high,vhigh,3,more,small,med,unacc
-high,vhigh,3,more,small,high,unacc
-high,vhigh,3,more,med,low,unacc
-high,vhigh,3,more,med,med,unacc
-high,vhigh,3,more,med,high,unacc
-high,vhigh,3,more,big,low,unacc
-high,vhigh,3,more,big,med,unacc
-high,vhigh,3,more,big,high,unacc
-high,vhigh,4,2,small,low,unacc
-high,vhigh,4,2,small,med,unacc
-high,vhigh,4,2,small,high,unacc
-high,vhigh,4,2,med,low,unacc
-high,vhigh,4,2,med,med,unacc
-high,vhigh,4,2,med,high,unacc
-high,vhigh,4,2,big,low,unacc
-high,vhigh,4,2,big,med,unacc
-high,vhigh,4,2,big,high,unacc
-high,vhigh,4,4,small,low,unacc
-high,vhigh,4,4,small,med,unacc
-high,vhigh,4,4,small,high,unacc
-high,vhigh,4,4,med,low,unacc
-high,vhigh,4,4,med,med,unacc
-high,vhigh,4,4,med,high,unacc
-high,vhigh,4,4,big,low,unacc
-high,vhigh,4,4,big,med,unacc
-high,vhigh,4,4,big,high,unacc
-high,vhigh,4,more,small,low,unacc
-high,vhigh,4,more,small,med,unacc
-high,vhigh,4,more,small,high,unacc
-high,vhigh,4,more,med,low,unacc
-high,vhigh,4,more,med,med,unacc
-high,vhigh,4,more,med,high,unacc
-high,vhigh,4,more,big,low,unacc
-high,vhigh,4,more,big,med,unacc
-high,vhigh,4,more,big,high,unacc
-high,vhigh,5more,2,small,low,unacc
-high,vhigh,5more,2,small,med,unacc
-high,vhigh,5more,2,small,high,unacc
-high,vhigh,5more,2,med,low,unacc
-high,vhigh,5more,2,med,med,unacc
-high,vhigh,5more,2,med,high,unacc
-high,vhigh,5more,2,big,low,unacc
-high,vhigh,5more,2,big,med,unacc
-high,vhigh,5more,2,big,high,unacc
-high,vhigh,5more,4,small,low,unacc
-high,vhigh,5more,4,small,med,unacc
-high,vhigh,5more,4,small,high,unacc
-high,vhigh,5more,4,med,low,unacc
-high,vhigh,5more,4,med,med,unacc
-high,vhigh,5more,4,med,high,unacc
-high,vhigh,5more,4,big,low,unacc
-high,vhigh,5more,4,big,med,unacc
-high,vhigh,5more,4,big,high,unacc
-high,vhigh,5more,more,small,low,unacc
-high,vhigh,5more,more,small,med,unacc
-high,vhigh,5more,more,small,high,unacc
-high,vhigh,5more,more,med,low,unacc
-high,vhigh,5more,more,med,med,unacc
-high,vhigh,5more,more,med,high,unacc
-high,vhigh,5more,more,big,low,unacc
-high,vhigh,5more,more,big,med,unacc
-high,vhigh,5more,more,big,high,unacc
-high,high,2,2,small,low,unacc
-high,high,2,2,small,med,unacc
-high,high,2,2,small,high,unacc
-high,high,2,2,med,low,unacc
-high,high,2,2,med,med,unacc
-high,high,2,2,med,high,unacc
-high,high,2,2,big,low,unacc
-high,high,2,2,big,med,unacc
-high,high,2,2,big,high,unacc
-high,high,2,4,small,low,unacc
-high,high,2,4,small,med,unacc
-high,high,2,4,small,high,acc
-high,high,2,4,med,low,unacc
-high,high,2,4,med,med,unacc
-high,high,2,4,med,high,acc
-high,high,2,4,big,low,unacc
-high,high,2,4,big,med,acc
-high,high,2,4,big,high,acc
-high,high,2,more,small,low,unacc
-high,high,2,more,small,med,unacc
-high,high,2,more,small,high,unacc
-high,high,2,more,med,low,unacc
-high,high,2,more,med,med,unacc
-high,high,2,more,med,high,acc
-high,high,2,more,big,low,unacc
-high,high,2,more,big,med,acc
-high,high,2,more,big,high,acc
-high,high,3,2,small,low,unacc
-high,high,3,2,small,med,unacc
-high,high,3,2,small,high,unacc
-high,high,3,2,med,low,unacc
-high,high,3,2,med,med,unacc
-high,high,3,2,med,high,unacc
-high,high,3,2,big,low,unacc
-high,high,3,2,big,med,unacc
-high,high,3,2,big,high,unacc
-high,high,3,4,small,low,unacc
-high,high,3,4,small,med,unacc
-high,high,3,4,small,high,acc
-high,high,3,4,med,low,unacc
-high,high,3,4,med,med,unacc
-high,high,3,4,med,high,acc
-high,high,3,4,big,low,unacc
-high,high,3,4,big,med,acc
-high,high,3,4,big,high,acc
-high,high,3,more,small,low,unacc
-high,high,3,more,small,med,unacc
-high,high,3,more,small,high,acc
-high,high,3,more,med,low,unacc
-high,high,3,more,med,med,acc
-high,high,3,more,med,high,acc
-high,high,3,more,big,low,unacc
-high,high,3,more,big,med,acc
-high,high,3,more,big,high,acc
-high,high,4,2,small,low,unacc
-high,high,4,2,small,med,unacc
-high,high,4,2,small,high,unacc
-high,high,4,2,med,low,unacc
-high,high,4,2,med,med,unacc
-high,high,4,2,med,high,unacc
-high,high,4,2,big,low,unacc
-high,high,4,2,big,med,unacc
-high,high,4,2,big,high,unacc
-high,high,4,4,small,low,unacc
-high,high,4,4,small,med,unacc
-high,high,4,4,small,high,acc
-high,high,4,4,med,low,unacc
-high,high,4,4,med,med,acc
-high,high,4,4,med,high,acc
-high,high,4,4,big,low,unacc
-high,high,4,4,big,med,acc
-high,high,4,4,big,high,acc
-high,high,4,more,small,low,unacc
-high,high,4,more,small,med,unacc
-high,high,4,more,small,high,acc
-high,high,4,more,med,low,unacc
-high,high,4,more,med,med,acc
-high,high,4,more,med,high,acc
-high,high,4,more,big,low,unacc
-high,high,4,more,big,med,acc
-high,high,4,more,big,high,acc
-high,high,5more,2,small,low,unacc
-high,high,5more,2,small,med,unacc
-high,high,5more,2,small,high,unacc
-high,high,5more,2,med,low,unacc
-high,high,5more,2,med,med,unacc
-high,high,5more,2,med,high,unacc
-high,high,5more,2,big,low,unacc
-high,high,5more,2,big,med,unacc
-high,high,5more,2,big,high,unacc
-high,high,5more,4,small,low,unacc
-high,high,5more,4,small,med,unacc
-high,high,5more,4,small,high,acc
-high,high,5more,4,med,low,unacc
-high,high,5more,4,med,med,acc
-high,high,5more,4,med,high,acc
-high,high,5more,4,big,low,unacc
-high,high,5more,4,big,med,acc
-high,high,5more,4,big,high,acc
-high,high,5more,more,small,low,unacc
-high,high,5more,more,small,med,unacc
-high,high,5more,more,small,high,acc
-high,high,5more,more,med,low,unacc
-high,high,5more,more,med,med,acc
-high,high,5more,more,med,high,acc
-high,high,5more,more,big,low,unacc
-high,high,5more,more,big,med,acc
-high,high,5more,more,big,high,acc
-high,med,2,2,small,low,unacc
-high,med,2,2,small,med,unacc
-high,med,2,2,small,high,unacc
-high,med,2,2,med,low,unacc
-high,med,2,2,med,med,unacc
-high,med,2,2,med,high,unacc
-high,med,2,2,big,low,unacc
-high,med,2,2,big,med,unacc
-high,med,2,2,big,high,unacc
-high,med,2,4,small,low,unacc
-high,med,2,4,small,med,unacc
-high,med,2,4,small,high,acc
-high,med,2,4,med,low,unacc
-high,med,2,4,med,med,unacc
-high,med,2,4,med,high,acc
-high,med,2,4,big,low,unacc
-high,med,2,4,big,med,acc
-high,med,2,4,big,high,acc
-high,med,2,more,small,low,unacc
-high,med,2,more,small,med,unacc
-high,med,2,more,small,high,unacc
-high,med,2,more,med,low,unacc
-high,med,2,more,med,med,unacc
-high,med,2,more,med,high,acc
-high,med,2,more,big,low,unacc
-high,med,2,more,big,med,acc
-high,med,2,more,big,high,acc
-high,med,3,2,small,low,unacc
-high,med,3,2,small,med,unacc
-high,med,3,2,small,high,unacc
-high,med,3,2,med,low,unacc
-high,med,3,2,med,med,unacc
-high,med,3,2,med,high,unacc
-high,med,3,2,big,low,unacc
-high,med,3,2,big,med,unacc
-high,med,3,2,big,high,unacc
-high,med,3,4,small,low,unacc
-high,med,3,4,small,med,unacc
-high,med,3,4,small,high,acc
-high,med,3,4,med,low,unacc
-high,med,3,4,med,med,unacc
-high,med,3,4,med,high,acc
-high,med,3,4,big,low,unacc
-high,med,3,4,big,med,acc
-high,med,3,4,big,high,acc
-high,med,3,more,small,low,unacc
-high,med,3,more,small,med,unacc
-high,med,3,more,small,high,acc
-high,med,3,more,med,low,unacc
-high,med,3,more,med,med,acc
-high,med,3,more,med,high,acc
-high,med,3,more,big,low,unacc
-high,med,3,more,big,med,acc
-high,med,3,more,big,high,acc
-high,med,4,2,small,low,unacc
-high,med,4,2,small,med,unacc
-high,med,4,2,small,high,unacc
-high,med,4,2,med,low,unacc
-high,med,4,2,med,med,unacc
-high,med,4,2,med,high,unacc
-high,med,4,2,big,low,unacc
-high,med,4,2,big,med,unacc
-high,med,4,2,big,high,unacc
-high,med,4,4,small,low,unacc
-high,med,4,4,small,med,unacc
-high,med,4,4,small,high,acc
-high,med,4,4,med,low,unacc
-high,med,4,4,med,med,acc
-high,med,4,4,med,high,acc
-high,med,4,4,big,low,unacc
-high,med,4,4,big,med,acc
-high,med,4,4,big,high,acc
-high,med,4,more,small,low,unacc
-high,med,4,more,small,med,unacc
-high,med,4,more,small,high,acc
-high,med,4,more,med,low,unacc
-high,med,4,more,med,med,acc
-high,med,4,more,med,high,acc
-high,med,4,more,big,low,unacc
-high,med,4,more,big,med,acc
-high,med,4,more,big,high,acc
-high,med,5more,2,small,low,unacc
-high,med,5more,2,small,med,unacc
-high,med,5more,2,small,high,unacc
-high,med,5more,2,med,low,unacc
-high,med,5more,2,med,med,unacc
-high,med,5more,2,med,high,unacc
-high,med,5more,2,big,low,unacc
-high,med,5more,2,big,med,unacc
-high,med,5more,2,big,high,unacc
-high,med,5more,4,small,low,unacc
-high,med,5more,4,small,med,unacc
-high,med,5more,4,small,high,acc
-high,med,5more,4,med,low,unacc
-high,med,5more,4,med,med,acc
-high,med,5more,4,med,high,acc
-high,med,5more,4,big,low,unacc
-high,med,5more,4,big,med,acc
-high,med,5more,4,big,high,acc
-high,med,5more,more,small,low,unacc
-high,med,5more,more,small,med,unacc
-high,med,5more,more,small,high,acc
-high,med,5more,more,med,low,unacc
-high,med,5more,more,med,med,acc
-high,med,5more,more,med,high,acc
-high,med,5more,more,big,low,unacc
-high,med,5more,more,big,med,acc
-high,med,5more,more,big,high,acc
-high,low,2,2,small,low,unacc
-high,low,2,2,small,med,unacc
-high,low,2,2,small,high,unacc
-high,low,2,2,med,low,unacc
-high,low,2,2,med,med,unacc
-high,low,2,2,med,high,unacc
-high,low,2,2,big,low,unacc
-high,low,2,2,big,med,unacc
-high,low,2,2,big,high,unacc
-high,low,2,4,small,low,unacc
-high,low,2,4,small,med,unacc
-high,low,2,4,small,high,acc
-high,low,2,4,med,low,unacc
-high,low,2,4,med,med,unacc
-high,low,2,4,med,high,acc
-high,low,2,4,big,low,unacc
-high,low,2,4,big,med,acc
-high,low,2,4,big,high,acc
-high,low,2,more,small,low,unacc
-high,low,2,more,small,med,unacc
-high,low,2,more,small,high,unacc
-high,low,2,more,med,low,unacc
-high,low,2,more,med,med,unacc
-high,low,2,more,med,high,acc
-high,low,2,more,big,low,unacc
-high,low,2,more,big,med,acc
-high,low,2,more,big,high,acc
-high,low,3,2,small,low,unacc
-high,low,3,2,small,med,unacc
-high,low,3,2,small,high,unacc
-high,low,3,2,med,low,unacc
-high,low,3,2,med,med,unacc
-high,low,3,2,med,high,unacc
-high,low,3,2,big,low,unacc
-high,low,3,2,big,med,unacc
-high,low,3,2,big,high,unacc
-high,low,3,4,small,low,unacc
-high,low,3,4,small,med,unacc
-high,low,3,4,small,high,acc
-high,low,3,4,med,low,unacc
-high,low,3,4,med,med,unacc
-high,low,3,4,med,high,acc
-high,low,3,4,big,low,unacc
-high,low,3,4,big,med,acc
-high,low,3,4,big,high,acc
-high,low,3,more,small,low,unacc
-high,low,3,more,small,med,unacc
-high,low,3,more,small,high,acc
-high,low,3,more,med,low,unacc
-high,low,3,more,med,med,acc
-high,low,3,more,med,high,acc
-high,low,3,more,big,low,unacc
-high,low,3,more,big,med,acc
-high,low,3,more,big,high,acc
-high,low,4,2,small,low,unacc
-high,low,4,2,small,med,unacc
-high,low,4,2,small,high,unacc
-high,low,4,2,med,low,unacc
-high,low,4,2,med,med,unacc
-high,low,4,2,med,high,unacc
-high,low,4,2,big,low,unacc
-high,low,4,2,big,med,unacc
-high,low,4,2,big,high,unacc
-high,low,4,4,small,low,unacc
-high,low,4,4,small,med,unacc
-high,low,4,4,small,high,acc
-high,low,4,4,med,low,unacc
-high,low,4,4,med,med,acc
-high,low,4,4,med,high,acc
-high,low,4,4,big,low,unacc
-high,low,4,4,big,med,acc
-high,low,4,4,big,high,acc
-high,low,4,more,small,low,unacc
-high,low,4,more,small,med,unacc
-high,low,4,more,small,high,acc
-high,low,4,more,med,low,unacc
-high,low,4,more,med,med,acc
-high,low,4,more,med,high,acc
-high,low,4,more,big,low,unacc
-high,low,4,more,big,med,acc
-high,low,4,more,big,high,acc
-high,low,5more,2,small,low,unacc
-high,low,5more,2,small,med,unacc
-high,low,5more,2,small,high,unacc
-high,low,5more,2,med,low,unacc
-high,low,5more,2,med,med,unacc
-high,low,5more,2,med,high,unacc
-high,low,5more,2,big,low,unacc
-high,low,5more,2,big,med,unacc
-high,low,5more,2,big,high,unacc
-high,low,5more,4,small,low,unacc
-high,low,5more,4,small,med,unacc
-high,low,5more,4,small,high,acc
-high,low,5more,4,med,low,unacc
-high,low,5more,4,med,med,acc
-high,low,5more,4,med,high,acc
-high,low,5more,4,big,low,unacc
-high,low,5more,4,big,med,acc
-high,low,5more,4,big,high,acc
-high,low,5more,more,small,low,unacc
-high,low,5more,more,small,med,unacc
-high,low,5more,more,small,high,acc
-high,low,5more,more,med,low,unacc
-high,low,5more,more,med,med,acc
-high,low,5more,more,med,high,acc
-high,low,5more,more,big,low,unacc
-high,low,5more,more,big,med,acc
-high,low,5more,more,big,high,acc
-med,vhigh,2,2,small,low,unacc
-med,vhigh,2,2,small,med,unacc
-med,vhigh,2,2,small,high,unacc
-med,vhigh,2,2,med,low,unacc
-med,vhigh,2,2,med,med,unacc
-med,vhigh,2,2,med,high,unacc
-med,vhigh,2,2,big,low,unacc
-med,vhigh,2,2,big,med,unacc
-med,vhigh,2,2,big,high,unacc
-med,vhigh,2,4,small,low,unacc
-med,vhigh,2,4,small,med,unacc
-med,vhigh,2,4,small,high,acc
-med,vhigh,2,4,med,low,unacc
-med,vhigh,2,4,med,med,unacc
-med,vhigh,2,4,med,high,acc
-med,vhigh,2,4,big,low,unacc
-med,vhigh,2,4,big,med,acc
-med,vhigh,2,4,big,high,acc
-med,vhigh,2,more,small,low,unacc
-med,vhigh,2,more,small,med,unacc
-med,vhigh,2,more,small,high,unacc
-med,vhigh,2,more,med,low,unacc
-med,vhigh,2,more,med,med,unacc
-med,vhigh,2,more,med,high,acc
-med,vhigh,2,more,big,low,unacc
-med,vhigh,2,more,big,med,acc
-med,vhigh,2,more,big,high,acc
-med,vhigh,3,2,small,low,unacc
-med,vhigh,3,2,small,med,unacc
-med,vhigh,3,2,small,high,unacc
-med,vhigh,3,2,med,low,unacc
-med,vhigh,3,2,med,med,unacc
-med,vhigh,3,2,med,high,unacc
-med,vhigh,3,2,big,low,unacc
-med,vhigh,3,2,big,med,unacc
-med,vhigh,3,2,big,high,unacc
-med,vhigh,3,4,small,low,unacc
-med,vhigh,3,4,small,med,unacc
-med,vhigh,3,4,small,high,acc
-med,vhigh,3,4,med,low,unacc
-med,vhigh,3,4,med,med,unacc
-med,vhigh,3,4,med,high,acc
-med,vhigh,3,4,big,low,unacc
-med,vhigh,3,4,big,med,acc
-med,vhigh,3,4,big,high,acc
-med,vhigh,3,more,small,low,unacc
-med,vhigh,3,more,small,med,unacc
-med,vhigh,3,more,small,high,acc
-med,vhigh,3,more,med,low,unacc
-med,vhigh,3,more,med,med,acc
-med,vhigh,3,more,med,high,acc
-med,vhigh,3,more,big,low,unacc
-med,vhigh,3,more,big,med,acc
-med,vhigh,3,more,big,high,acc
-med,vhigh,4,2,small,low,unacc
-med,vhigh,4,2,small,med,unacc
-med,vhigh,4,2,small,high,unacc
-med,vhigh,4,2,med,low,unacc
-med,vhigh,4,2,med,med,unacc
-med,vhigh,4,2,med,high,unacc
-med,vhigh,4,2,big,low,unacc
-med,vhigh,4,2,big,med,unacc
-med,vhigh,4,2,big,high,unacc
-med,vhigh,4,4,small,low,unacc
-med,vhigh,4,4,small,med,unacc
-med,vhigh,4,4,small,high,acc
-med,vhigh,4,4,med,low,unacc
-med,vhigh,4,4,med,med,acc
-med,vhigh,4,4,med,high,acc
-med,vhigh,4,4,big,low,unacc
-med,vhigh,4,4,big,med,acc
-med,vhigh,4,4,big,high,acc
-med,vhigh,4,more,small,low,unacc
-med,vhigh,4,more,small,med,unacc
-med,vhigh,4,more,small,high,acc
-med,vhigh,4,more,med,low,unacc
-med,vhigh,4,more,med,med,acc
-med,vhigh,4,more,med,high,acc
-med,vhigh,4,more,big,low,unacc
-med,vhigh,4,more,big,med,acc
-med,vhigh,4,more,big,high,acc
-med,vhigh,5more,2,small,low,unacc
-med,vhigh,5more,2,small,med,unacc
-med,vhigh,5more,2,small,high,unacc
-med,vhigh,5more,2,med,low,unacc
-med,vhigh,5more,2,med,med,unacc
-med,vhigh,5more,2,med,high,unacc
-med,vhigh,5more,2,big,low,unacc
-med,vhigh,5more,2,big,med,unacc
-med,vhigh,5more,2,big,high,unacc
-med,vhigh,5more,4,small,low,unacc
-med,vhigh,5more,4,small,med,unacc
-med,vhigh,5more,4,small,high,acc
-med,vhigh,5more,4,med,low,unacc
-med,vhigh,5more,4,med,med,acc
-med,vhigh,5more,4,med,high,acc
-med,vhigh,5more,4,big,low,unacc
-med,vhigh,5more,4,big,med,acc
-med,vhigh,5more,4,big,high,acc
-med,vhigh,5more,more,small,low,unacc
-med,vhigh,5more,more,small,med,unacc
-med,vhigh,5more,more,small,high,acc
-med,vhigh,5more,more,med,low,unacc
-med,vhigh,5more,more,med,med,acc
-med,vhigh,5more,more,med,high,acc
-med,vhigh,5more,more,big,low,unacc
-med,vhigh,5more,more,big,med,acc
-med,vhigh,5more,more,big,high,acc
-med,high,2,2,small,low,unacc
-med,high,2,2,small,med,unacc
-med,high,2,2,small,high,unacc
-med,high,2,2,med,low,unacc
-med,high,2,2,med,med,unacc
-med,high,2,2,med,high,unacc
-med,high,2,2,big,low,unacc
-med,high,2,2,big,med,unacc
-med,high,2,2,big,high,unacc
-med,high,2,4,small,low,unacc
-med,high,2,4,small,med,unacc
-med,high,2,4,small,high,acc
-med,high,2,4,med,low,unacc
-med,high,2,4,med,med,unacc
-med,high,2,4,med,high,acc
-med,high,2,4,big,low,unacc
-med,high,2,4,big,med,acc
-med,high,2,4,big,high,acc
-med,high,2,more,small,low,unacc
-med,high,2,more,small,med,unacc
-med,high,2,more,small,high,unacc
-med,high,2,more,med,low,unacc
-med,high,2,more,med,med,unacc
-med,high,2,more,med,high,acc
-med,high,2,more,big,low,unacc
-med,high,2,more,big,med,acc
-med,high,2,more,big,high,acc
-med,high,3,2,small,low,unacc
-med,high,3,2,small,med,unacc
-med,high,3,2,small,high,unacc
-med,high,3,2,med,low,unacc
-med,high,3,2,med,med,unacc
-med,high,3,2,med,high,unacc
-med,high,3,2,big,low,unacc
-med,high,3,2,big,med,unacc
-med,high,3,2,big,high,unacc
-med,high,3,4,small,low,unacc
-med,high,3,4,small,med,unacc
-med,high,3,4,small,high,acc
-med,high,3,4,med,low,unacc
-med,high,3,4,med,med,unacc
-med,high,3,4,med,high,acc
-med,high,3,4,big,low,unacc
-med,high,3,4,big,med,acc
-med,high,3,4,big,high,acc
-med,high,3,more,small,low,unacc
-med,high,3,more,small,med,unacc
-med,high,3,more,small,high,acc
-med,high,3,more,med,low,unacc
-med,high,3,more,med,med,acc
-med,high,3,more,med,high,acc
-med,high,3,more,big,low,unacc
-med,high,3,more,big,med,acc
-med,high,3,more,big,high,acc
-med,high,4,2,small,low,unacc
-med,high,4,2,small,med,unacc
-med,high,4,2,small,high,unacc
-med,high,4,2,med,low,unacc
-med,high,4,2,med,med,unacc
-med,high,4,2,med,high,unacc
-med,high,4,2,big,low,unacc
-med,high,4,2,big,med,unacc
-med,high,4,2,big,high,unacc
-med,high,4,4,small,low,unacc
-med,high,4,4,small,med,unacc
-med,high,4,4,small,high,acc
-med,high,4,4,med,low,unacc
-med,high,4,4,med,med,acc
-med,high,4,4,med,high,acc
-med,high,4,4,big,low,unacc
-med,high,4,4,big,med,acc
-med,high,4,4,big,high,acc
-med,high,4,more,small,low,unacc
-med,high,4,more,small,med,unacc
-med,high,4,more,small,high,acc
-med,high,4,more,med,low,unacc
-med,high,4,more,med,med,acc
-med,high,4,more,med,high,acc
-med,high,4,more,big,low,unacc
-med,high,4,more,big,med,acc
-med,high,4,more,big,high,acc
-med,high,5more,2,small,low,unacc
-med,high,5more,2,small,med,unacc
-med,high,5more,2,small,high,unacc
-med,high,5more,2,med,low,unacc
-med,high,5more,2,med,med,unacc
-med,high,5more,2,med,high,unacc
-med,high,5more,2,big,low,unacc
-med,high,5more,2,big,med,unacc
-med,high,5more,2,big,high,unacc
-med,high,5more,4,small,low,unacc
-med,high,5more,4,small,med,unacc
-med,high,5more,4,small,high,acc
-med,high,5more,4,med,low,unacc
-med,high,5more,4,med,med,acc
-med,high,5more,4,med,high,acc
-med,high,5more,4,big,low,unacc
-med,high,5more,4,big,med,acc
-med,high,5more,4,big,high,acc
-med,high,5more,more,small,low,unacc
-med,high,5more,more,small,med,unacc
-med,high,5more,more,small,high,acc
-med,high,5more,more,med,low,unacc
-med,high,5more,more,med,med,acc
-med,high,5more,more,med,high,acc
-med,high,5more,more,big,low,unacc
-med,high,5more,more,big,med,acc
-med,high,5more,more,big,high,acc
-med,med,2,2,small,low,unacc
-med,med,2,2,small,med,unacc
-med,med,2,2,small,high,unacc
-med,med,2,2,med,low,unacc
-med,med,2,2,med,med,unacc
-med,med,2,2,med,high,unacc
-med,med,2,2,big,low,unacc
-med,med,2,2,big,med,unacc
-med,med,2,2,big,high,unacc
-med,med,2,4,small,low,unacc
-med,med,2,4,small,med,acc
-med,med,2,4,small,high,acc
-med,med,2,4,med,low,unacc
-med,med,2,4,med,med,acc
-med,med,2,4,med,high,acc
-med,med,2,4,big,low,unacc
-med,med,2,4,big,med,acc
-med,med,2,4,big,high,vgood
-med,med,2,more,small,low,unacc
-med,med,2,more,small,med,unacc
-med,med,2,more,small,high,unacc
-med,med,2,more,med,low,unacc
-med,med,2,more,med,med,acc
-med,med,2,more,med,high,acc
-med,med,2,more,big,low,unacc
-med,med,2,more,big,med,acc
-med,med,2,more,big,high,vgood
-med,med,3,2,small,low,unacc
-med,med,3,2,small,med,unacc
-med,med,3,2,small,high,unacc
-med,med,3,2,med,low,unacc
-med,med,3,2,med,med,unacc
-med,med,3,2,med,high,unacc
-med,med,3,2,big,low,unacc
-med,med,3,2,big,med,unacc
-med,med,3,2,big,high,unacc
-med,med,3,4,small,low,unacc
-med,med,3,4,small,med,acc
-med,med,3,4,small,high,acc
-med,med,3,4,med,low,unacc
-med,med,3,4,med,med,acc
-med,med,3,4,med,high,acc
-med,med,3,4,big,low,unacc
-med,med,3,4,big,med,acc
-med,med,3,4,big,high,vgood
-med,med,3,more,small,low,unacc
-med,med,3,more,small,med,acc
-med,med,3,more,small,high,acc
-med,med,3,more,med,low,unacc
-med,med,3,more,med,med,acc
-med,med,3,more,med,high,vgood
-med,med,3,more,big,low,unacc
-med,med,3,more,big,med,acc
-med,med,3,more,big,high,vgood
-med,med,4,2,small,low,unacc
-med,med,4,2,small,med,unacc
-med,med,4,2,small,high,unacc
-med,med,4,2,med,low,unacc
-med,med,4,2,med,med,unacc
-med,med,4,2,med,high,unacc
-med,med,4,2,big,low,unacc
-med,med,4,2,big,med,unacc
-med,med,4,2,big,high,unacc
-med,med,4,4,small,low,unacc
-med,med,4,4,small,med,acc
-med,med,4,4,small,high,acc
-med,med,4,4,med,low,unacc
-med,med,4,4,med,med,acc
-med,med,4,4,med,high,vgood
-med,med,4,4,big,low,unacc
-med,med,4,4,big,med,acc
-med,med,4,4,big,high,vgood
-med,med,4,more,small,low,unacc
-med,med,4,more,small,med,acc
-med,med,4,more,small,high,acc
-med,med,4,more,med,low,unacc
-med,med,4,more,med,med,acc
-med,med,4,more,med,high,vgood
-med,med,4,more,big,low,unacc
-med,med,4,more,big,med,acc
-med,med,4,more,big,high,vgood
-med,med,5more,2,small,low,unacc
-med,med,5more,2,small,med,unacc
-med,med,5more,2,small,high,unacc
-med,med,5more,2,med,low,unacc
-med,med,5more,2,med,med,unacc
-med,med,5more,2,med,high,unacc
-med,med,5more,2,big,low,unacc
-med,med,5more,2,big,med,unacc
-med,med,5more,2,big,high,unacc
-med,med,5more,4,small,low,unacc
-med,med,5more,4,small,med,acc
-med,med,5more,4,small,high,acc
-med,med,5more,4,med,low,unacc
-med,med,5more,4,med,med,acc
-med,med,5more,4,med,high,vgood
-med,med,5more,4,big,low,unacc
-med,med,5more,4,big,med,acc
-med,med,5more,4,big,high,vgood
-med,med,5more,more,small,low,unacc
-med,med,5more,more,small,med,acc
-med,med,5more,more,small,high,acc
-med,med,5more,more,med,low,unacc
-med,med,5more,more,med,med,acc
-med,med,5more,more,med,high,vgood
-med,med,5more,more,big,low,unacc
-med,med,5more,more,big,med,acc
-med,med,5more,more,big,high,vgood
-med,low,2,2,small,low,unacc
-med,low,2,2,small,med,unacc
-med,low,2,2,small,high,unacc
-med,low,2,2,med,low,unacc
-med,low,2,2,med,med,unacc
-med,low,2,2,med,high,unacc
-med,low,2,2,big,low,unacc
-med,low,2,2,big,med,unacc
-med,low,2,2,big,high,unacc
-med,low,2,4,small,low,unacc
-med,low,2,4,small,med,acc
-med,low,2,4,small,high,good
-med,low,2,4,med,low,unacc
-med,low,2,4,med,med,acc
-med,low,2,4,med,high,good
-med,low,2,4,big,low,unacc
-med,low,2,4,big,med,good
-med,low,2,4,big,high,vgood
-med,low,2,more,small,low,unacc
-med,low,2,more,small,med,unacc
-med,low,2,more,small,high,unacc
-med,low,2,more,med,low,unacc
-med,low,2,more,med,med,acc
-med,low,2,more,med,high,good
-med,low,2,more,big,low,unacc
-med,low,2,more,big,med,good
-med,low,2,more,big,high,vgood
-med,low,3,2,small,low,unacc
-med,low,3,2,small,med,unacc
-med,low,3,2,small,high,unacc
-med,low,3,2,med,low,unacc
-med,low,3,2,med,med,unacc
-med,low,3,2,med,high,unacc
-med,low,3,2,big,low,unacc
-med,low,3,2,big,med,unacc
-med,low,3,2,big,high,unacc
-med,low,3,4,small,low,unacc
-med,low,3,4,small,med,acc
-med,low,3,4,small,high,good
-med,low,3,4,med,low,unacc
-med,low,3,4,med,med,acc
-med,low,3,4,med,high,good
-med,low,3,4,big,low,unacc
-med,low,3,4,big,med,good
-med,low,3,4,big,high,vgood
-med,low,3,more,small,low,unacc
-med,low,3,more,small,med,acc
-med,low,3,more,small,high,good
-med,low,3,more,med,low,unacc
-med,low,3,more,med,med,good
-med,low,3,more,med,high,vgood
-med,low,3,more,big,low,unacc
-med,low,3,more,big,med,good
-med,low,3,more,big,high,vgood
-med,low,4,2,small,low,unacc
-med,low,4,2,small,med,unacc
-med,low,4,2,small,high,unacc
-med,low,4,2,med,low,unacc
-med,low,4,2,med,med,unacc
-med,low,4,2,med,high,unacc
-med,low,4,2,big,low,unacc
-med,low,4,2,big,med,unacc
-med,low,4,2,big,high,unacc
-med,low,4,4,small,low,unacc
-med,low,4,4,small,med,acc
-med,low,4,4,small,high,good
-med,low,4,4,med,low,unacc
-med,low,4,4,med,med,good
-med,low,4,4,med,high,vgood
-med,low,4,4,big,low,unacc
-med,low,4,4,big,med,good
-med,low,4,4,big,high,vgood
-med,low,4,more,small,low,unacc
-med,low,4,more,small,med,acc
-med,low,4,more,small,high,good
-med,low,4,more,med,low,unacc
-med,low,4,more,med,med,good
-med,low,4,more,med,high,vgood
-med,low,4,more,big,low,unacc
-med,low,4,more,big,med,good
-med,low,4,more,big,high,vgood
-med,low,5more,2,small,low,unacc
-med,low,5more,2,small,med,unacc
-med,low,5more,2,small,high,unacc
-med,low,5more,2,med,low,unacc
-med,low,5more,2,med,med,unacc
-med,low,5more,2,med,high,unacc
-med,low,5more,2,big,low,unacc
-med,low,5more,2,big,med,unacc
-med,low,5more,2,big,high,unacc
-med,low,5more,4,small,low,unacc
-med,low,5more,4,small,med,acc
-med,low,5more,4,small,high,good
-med,low,5more,4,med,low,unacc
-med,low,5more,4,med,med,good
-med,low,5more,4,med,high,vgood
-med,low,5more,4,big,low,unacc
-med,low,5more,4,big,med,good
-med,low,5more,4,big,high,vgood
-med,low,5more,more,small,low,unacc
-med,low,5more,more,small,med,acc
-med,low,5more,more,small,high,good
-med,low,5more,more,med,low,unacc
-med,low,5more,more,med,med,good
-med,low,5more,more,med,high,vgood
-med,low,5more,more,big,low,unacc
-med,low,5more,more,big,med,good
-med,low,5more,more,big,high,vgood
-low,vhigh,2,2,small,low,unacc
-low,vhigh,2,2,small,med,unacc
-low,vhigh,2,2,small,high,unacc
-low,vhigh,2,2,med,low,unacc
-low,vhigh,2,2,med,med,unacc
-low,vhigh,2,2,med,high,unacc
-low,vhigh,2,2,big,low,unacc
-low,vhigh,2,2,big,med,unacc
-low,vhigh,2,2,big,high,unacc
-low,vhigh,2,4,small,low,unacc
-low,vhigh,2,4,small,med,unacc
-low,vhigh,2,4,small,high,acc
-low,vhigh,2,4,med,low,unacc
-low,vhigh,2,4,med,med,unacc
-low,vhigh,2,4,med,high,acc
-low,vhigh,2,4,big,low,unacc
-low,vhigh,2,4,big,med,acc
-low,vhigh,2,4,big,high,acc
-low,vhigh,2,more,small,low,unacc
-low,vhigh,2,more,small,med,unacc
-low,vhigh,2,more,small,high,unacc
-low,vhigh,2,more,med,low,unacc
-low,vhigh,2,more,med,med,unacc
-low,vhigh,2,more,med,high,acc
-low,vhigh,2,more,big,low,unacc
-low,vhigh,2,more,big,med,acc
-low,vhigh,2,more,big,high,acc
-low,vhigh,3,2,small,low,unacc
-low,vhigh,3,2,small,med,unacc
-low,vhigh,3,2,small,high,unacc
-low,vhigh,3,2,med,low,unacc
-low,vhigh,3,2,med,med,unacc
-low,vhigh,3,2,med,high,unacc
-low,vhigh,3,2,big,low,unacc
-low,vhigh,3,2,big,med,unacc
-low,vhigh,3,2,big,high,unacc
-low,vhigh,3,4,small,low,unacc
-low,vhigh,3,4,small,med,unacc
-low,vhigh,3,4,small,high,acc
-low,vhigh,3,4,med,low,unacc
-low,vhigh,3,4,med,med,unacc
-low,vhigh,3,4,med,high,acc
-low,vhigh,3,4,big,low,unacc
-low,vhigh,3,4,big,med,acc
-low,vhigh,3,4,big,high,acc
-low,vhigh,3,more,small,low,unacc
-low,vhigh,3,more,small,med,unacc
-low,vhigh,3,more,small,high,acc
-low,vhigh,3,more,med,low,unacc
-low,vhigh,3,more,med,med,acc
-low,vhigh,3,more,med,high,acc
-low,vhigh,3,more,big,low,unacc
-low,vhigh,3,more,big,med,acc
-low,vhigh,3,more,big,high,acc
-low,vhigh,4,2,small,low,unacc
-low,vhigh,4,2,small,med,unacc
-low,vhigh,4,2,small,high,unacc
-low,vhigh,4,2,med,low,unacc
-low,vhigh,4,2,med,med,unacc
-low,vhigh,4,2,med,high,unacc
-low,vhigh,4,2,big,low,unacc
-low,vhigh,4,2,big,med,unacc
-low,vhigh,4,2,big,high,unacc
-low,vhigh,4,4,small,low,unacc
-low,vhigh,4,4,small,med,unacc
-low,vhigh,4,4,small,high,acc
-low,vhigh,4,4,med,low,unacc
-low,vhigh,4,4,med,med,acc
-low,vhigh,4,4,med,high,acc
-low,vhigh,4,4,big,low,unacc
-low,vhigh,4,4,big,med,acc
-low,vhigh,4,4,big,high,acc
-low,vhigh,4,more,small,low,unacc
-low,vhigh,4,more,small,med,unacc
-low,vhigh,4,more,small,high,acc
-low,vhigh,4,more,med,low,unacc
-low,vhigh,4,more,med,med,acc
-low,vhigh,4,more,med,high,acc
-low,vhigh,4,more,big,low,unacc
-low,vhigh,4,more,big,med,acc
-low,vhigh,4,more,big,high,acc
-low,vhigh,5more,2,small,low,unacc
-low,vhigh,5more,2,small,med,unacc
-low,vhigh,5more,2,small,high,unacc
-low,vhigh,5more,2,med,low,unacc
-low,vhigh,5more,2,med,med,unacc
-low,vhigh,5more,2,med,high,unacc
-low,vhigh,5more,2,big,low,unacc
-low,vhigh,5more,2,big,med,unacc
-low,vhigh,5more,2,big,high,unacc
-low,vhigh,5more,4,small,low,unacc
-low,vhigh,5more,4,small,med,unacc
-low,vhigh,5more,4,small,high,acc
-low,vhigh,5more,4,med,low,unacc
-low,vhigh,5more,4,med,med,acc
-low,vhigh,5more,4,med,high,acc
-low,vhigh,5more,4,big,low,unacc
-low,vhigh,5more,4,big,med,acc
-low,vhigh,5more,4,big,high,acc
-low,vhigh,5more,more,small,low,unacc
-low,vhigh,5more,more,small,med,unacc
-low,vhigh,5more,more,small,high,acc
-low,vhigh,5more,more,med,low,unacc
-low,vhigh,5more,more,med,med,acc
-low,vhigh,5more,more,med,high,acc
-low,vhigh,5more,more,big,low,unacc
-low,vhigh,5more,more,big,med,acc
-low,vhigh,5more,more,big,high,acc
-low,high,2,2,small,low,unacc
-low,high,2,2,small,med,unacc
-low,high,2,2,small,high,unacc
-low,high,2,2,med,low,unacc
-low,high,2,2,med,med,unacc
-low,high,2,2,med,high,unacc
-low,high,2,2,big,low,unacc
-low,high,2,2,big,med,unacc
-low,high,2,2,big,high,unacc
-low,high,2,4,small,low,unacc
-low,high,2,4,small,med,acc
-low,high,2,4,small,high,acc
-low,high,2,4,med,low,unacc
-low,high,2,4,med,med,acc
-low,high,2,4,med,high,acc
-low,high,2,4,big,low,unacc
-low,high,2,4,big,med,acc
-low,high,2,4,big,high,vgood
-low,high,2,more,small,low,unacc
-low,high,2,more,small,med,unacc
-low,high,2,more,small,high,unacc
-low,high,2,more,med,low,unacc
-low,high,2,more,med,med,acc
-low,high,2,more,med,high,acc
-low,high,2,more,big,low,unacc
-low,high,2,more,big,med,acc
-low,high,2,more,big,high,vgood
-low,high,3,2,small,low,unacc
-low,high,3,2,small,med,unacc
-low,high,3,2,small,high,unacc
-low,high,3,2,med,low,unacc
-low,high,3,2,med,med,unacc
-low,high,3,2,med,high,unacc
-low,high,3,2,big,low,unacc
-low,high,3,2,big,med,unacc
-low,high,3,2,big,high,unacc
-low,high,3,4,small,low,unacc
-low,high,3,4,small,med,acc
-low,high,3,4,small,high,acc
-low,high,3,4,med,low,unacc
-low,high,3,4,med,med,acc
-low,high,3,4,med,high,acc
-low,high,3,4,big,low,unacc
-low,high,3,4,big,med,acc
-low,high,3,4,big,high,vgood
-low,high,3,more,small,low,unacc
-low,high,3,more,small,med,acc
-low,high,3,more,small,high,acc
-low,high,3,more,med,low,unacc
-low,high,3,more,med,med,acc
-low,high,3,more,med,high,vgood
-low,high,3,more,big,low,unacc
-low,high,3,more,big,med,acc
-low,high,3,more,big,high,vgood
-low,high,4,2,small,low,unacc
-low,high,4,2,small,med,unacc
-low,high,4,2,small,high,unacc
-low,high,4,2,med,low,unacc
-low,high,4,2,med,med,unacc
-low,high,4,2,med,high,unacc
-low,high,4,2,big,low,unacc
-low,high,4,2,big,med,unacc
-low,high,4,2,big,high,unacc
-low,high,4,4,small,low,unacc
-low,high,4,4,small,med,acc
-low,high,4,4,small,high,acc
-low,high,4,4,med,low,unacc
-low,high,4,4,med,med,acc
-low,high,4,4,med,high,vgood
-low,high,4,4,big,low,unacc
-low,high,4,4,big,med,acc
-low,high,4,4,big,high,vgood
-low,high,4,more,small,low,unacc
-low,high,4,more,small,med,acc
-low,high,4,more,small,high,acc
-low,high,4,more,med,low,unacc
-low,high,4,more,med,med,acc
-low,high,4,more,med,high,vgood
-low,high,4,more,big,low,unacc
-low,high,4,more,big,med,acc
-low,high,4,more,big,high,vgood
-low,high,5more,2,small,low,unacc
-low,high,5more,2,small,med,unacc
-low,high,5more,2,small,high,unacc
-low,high,5more,2,med,low,unacc
-low,high,5more,2,med,med,unacc
-low,high,5more,2,med,high,unacc
-low,high,5more,2,big,low,unacc
-low,high,5more,2,big,med,unacc
-low,high,5more,2,big,high,unacc
-low,high,5more,4,small,low,unacc
-low,high,5more,4,small,med,acc
-low,high,5more,4,small,high,acc
-low,high,5more,4,med,low,unacc
-low,high,5more,4,med,med,acc
-low,high,5more,4,med,high,vgood
-low,high,5more,4,big,low,unacc
-low,high,5more,4,big,med,acc
-low,high,5more,4,big,high,vgood
-low,high,5more,more,small,low,unacc
-low,high,5more,more,small,med,acc
-low,high,5more,more,small,high,acc
-low,high,5more,more,med,low,unacc
-low,high,5more,more,med,med,acc
-low,high,5more,more,med,high,vgood
-low,high,5more,more,big,low,unacc
-low,high,5more,more,big,med,acc
-low,high,5more,more,big,high,vgood
-low,med,2,2,small,low,unacc
-low,med,2,2,small,med,unacc
-low,med,2,2,small,high,unacc
-low,med,2,2,med,low,unacc
-low,med,2,2,med,med,unacc
-low,med,2,2,med,high,unacc
-low,med,2,2,big,low,unacc
-low,med,2,2,big,med,unacc
-low,med,2,2,big,high,unacc
-low,med,2,4,small,low,unacc
-low,med,2,4,small,med,acc
-low,med,2,4,small,high,good
-low,med,2,4,med,low,unacc
-low,med,2,4,med,med,acc
-low,med,2,4,med,high,good
-low,med,2,4,big,low,unacc
-low,med,2,4,big,med,good
-low,med,2,4,big,high,vgood
-low,med,2,more,small,low,unacc
-low,med,2,more,small,med,unacc
-low,med,2,more,small,high,unacc
-low,med,2,more,med,low,unacc
-low,med,2,more,med,med,acc
-low,med,2,more,med,high,good
-low,med,2,more,big,low,unacc
-low,med,2,more,big,med,good
-low,med,2,more,big,high,vgood
-low,med,3,2,small,low,unacc
-low,med,3,2,small,med,unacc
-low,med,3,2,small,high,unacc
-low,med,3,2,med,low,unacc
-low,med,3,2,med,med,unacc
-low,med,3,2,med,high,unacc
-low,med,3,2,big,low,unacc
-low,med,3,2,big,med,unacc
-low,med,3,2,big,high,unacc
-low,med,3,4,small,low,unacc
-low,med,3,4,small,med,acc
-low,med,3,4,small,high,good
-low,med,3,4,med,low,unacc
-low,med,3,4,med,med,acc
-low,med,3,4,med,high,good
-low,med,3,4,big,low,unacc
-low,med,3,4,big,med,good
-low,med,3,4,big,high,vgood
-low,med,3,more,small,low,unacc
-low,med,3,more,small,med,acc
-low,med,3,more,small,high,good
-low,med,3,more,med,low,unacc
-low,med,3,more,med,med,good
-low,med,3,more,med,high,vgood
-low,med,3,more,big,low,unacc
-low,med,3,more,big,med,good
-low,med,3,more,big,high,vgood
-low,med,4,2,small,low,unacc
-low,med,4,2,small,med,unacc
-low,med,4,2,small,high,unacc
-low,med,4,2,med,low,unacc
-low,med,4,2,med,med,unacc
-low,med,4,2,med,high,unacc
-low,med,4,2,big,low,unacc
-low,med,4,2,big,med,unacc
-low,med,4,2,big,high,unacc
-low,med,4,4,small,low,unacc
-low,med,4,4,small,med,acc
-low,med,4,4,small,high,good
-low,med,4,4,med,low,unacc
-low,med,4,4,med,med,good
-low,med,4,4,med,high,vgood
-low,med,4,4,big,low,unacc
-low,med,4,4,big,med,good
-low,med,4,4,big,high,vgood
-low,med,4,more,small,low,unacc
-low,med,4,more,small,med,acc
-low,med,4,more,small,high,good
-low,med,4,more,med,low,unacc
-low,med,4,more,med,med,good
-low,med,4,more,med,high,vgood
-low,med,4,more,big,low,unacc
-low,med,4,more,big,med,good
-low,med,4,more,big,high,vgood
-low,med,5more,2,small,low,unacc
-low,med,5more,2,small,med,unacc
-low,med,5more,2,small,high,unacc
-low,med,5more,2,med,low,unacc
-low,med,5more,2,med,med,unacc
-low,med,5more,2,med,high,unacc
-low,med,5more,2,big,low,unacc
-low,med,5more,2,big,med,unacc
-low,med,5more,2,big,high,unacc
-low,med,5more,4,small,low,unacc
-low,med,5more,4,small,med,acc
-low,med,5more,4,small,high,good
-low,med,5more,4,med,low,unacc
-low,med,5more,4,med,med,good
-low,med,5more,4,med,high,vgood
-low,med,5more,4,big,low,unacc
-low,med,5more,4,big,med,good
-low,med,5more,4,big,high,vgood
-low,med,5more,more,small,low,unacc
-low,med,5more,more,small,med,acc
-low,med,5more,more,small,high,good
-low,med,5more,more,med,low,unacc
-low,med,5more,more,med,med,good
-low,med,5more,more,med,high,vgood
-low,med,5more,more,big,low,unacc
-low,med,5more,more,big,med,good
-low,med,5more,more,big,high,vgood
-low,low,2,2,small,low,unacc
-low,low,2,2,small,med,unacc
-low,low,2,2,small,high,unacc
-low,low,2,2,med,low,unacc
-low,low,2,2,med,med,unacc
-low,low,2,2,med,high,unacc
-low,low,2,2,big,low,unacc
-low,low,2,2,big,med,unacc
-low,low,2,2,big,high,unacc
-low,low,2,4,small,low,unacc
-low,low,2,4,small,med,acc
-low,low,2,4,small,high,good
-low,low,2,4,med,low,unacc
-low,low,2,4,med,med,acc
-low,low,2,4,med,high,good
-low,low,2,4,big,low,unacc
-low,low,2,4,big,med,good
-low,low,2,4,big,high,vgood
-low,low,2,more,small,low,unacc
-low,low,2,more,small,med,unacc
-low,low,2,more,small,high,unacc
-low,low,2,more,med,low,unacc
-low,low,2,more,med,med,acc
-low,low,2,more,med,high,good
-low,low,2,more,big,low,unacc
-low,low,2,more,big,med,good
-low,low,2,more,big,high,vgood
-low,low,3,2,small,low,unacc
-low,low,3,2,small,med,unacc
-low,low,3,2,small,high,unacc
-low,low,3,2,med,low,unacc
-low,low,3,2,med,med,unacc
-low,low,3,2,med,high,unacc
-low,low,3,2,big,low,unacc
-low,low,3,2,big,med,unacc
-low,low,3,2,big,high,unacc
-low,low,3,4,small,low,unacc
-low,low,3,4,small,med,acc
-low,low,3,4,small,high,good
-low,low,3,4,med,low,unacc
-low,low,3,4,med,med,acc
-low,low,3,4,med,high,good
-low,low,3,4,big,low,unacc
-low,low,3,4,big,med,good
-low,low,3,4,big,high,vgood
-low,low,3,more,small,low,unacc
-low,low,3,more,small,med,acc
-low,low,3,more,small,high,good
-low,low,3,more,med,low,unacc
-low,low,3,more,med,med,good
-low,low,3,more,med,high,vgood
-low,low,3,more,big,low,unacc
-low,low,3,more,big,med,good
-low,low,3,more,big,high,vgood
-low,low,4,2,small,low,unacc
-low,low,4,2,small,med,unacc
-low,low,4,2,small,high,unacc
-low,low,4,2,med,low,unacc
-low,low,4,2,med,med,unacc
-low,low,4,2,med,high,unacc
-low,low,4,2,big,low,unacc
-low,low,4,2,big,med,unacc
-low,low,4,2,big,high,unacc
-low,low,4,4,small,low,unacc
-low,low,4,4,small,med,acc
-low,low,4,4,small,high,good
-low,low,4,4,med,low,unacc
-low,low,4,4,med,med,good
-low,low,4,4,med,high,vgood
-low,low,4,4,big,low,unacc
-low,low,4,4,big,med,good
-low,low,4,4,big,high,vgood
-low,low,4,more,small,low,unacc
-low,low,4,more,small,med,acc
-low,low,4,more,small,high,good
-low,low,4,more,med,low,unacc
-low,low,4,more,med,med,good
-low,low,4,more,med,high,vgood
-low,low,4,more,big,low,unacc
-low,low,4,more,big,med,good
-low,low,4,more,big,high,vgood
-low,low,5more,2,small,low,unacc
-low,low,5more,2,small,med,unacc
-low,low,5more,2,small,high,unacc
-low,low,5more,2,med,low,unacc
-low,low,5more,2,med,med,unacc
-low,low,5more,2,med,high,unacc
-low,low,5more,2,big,low,unacc
-low,low,5more,2,big,med,unacc
-low,low,5more,2,big,high,unacc
-low,low,5more,4,small,low,unacc
-low,low,5more,4,small,med,acc
-low,low,5more,4,small,high,good
-low,low,5more,4,med,low,unacc
-low,low,5more,4,med,med,good
-low,low,5more,4,med,high,vgood
-low,low,5more,4,big,low,unacc
-low,low,5more,4,big,med,good
-low,low,5more,4,big,high,vgood
-low,low,5more,more,small,low,unacc
-low,low,5more,more,small,med,acc
-low,low,5more,more,small,high,good
-low,low,5more,more,med,low,unacc
-low,low,5more,more,med,med,good
-low,low,5more,more,med,high,vgood
-low,low,5more,more,big,low,unacc
-low,low,5more,more,big,med,good
-low,low,5more,more,big,high,vgood
+74	85	123	1
+73	84	122	1
+72	83	121	1
+70	81	119	1
+70	81	119	1
+69	80	118	1
+70	81	119	1
+70	81	119	1
+76	87	125	1
+76	87	125	1
+77	88	126	1
+77	88	126	1
+77	88	126	1
+78	89	127	1
+77	85	125	1
+78	86	126	1
+78	86	126	1
+77	85	125	1
+76	84	124	1
+77	85	125	1
+80	88	128	1
+83	91	131	1
+83	91	131	1
+84	92	132	1
+84	92	132	1
+83	91	131	1
+80	88	128	1
+78	86	126	1
+78	86	126	1
+79	87	127	1
+78	86	126	1
+79	87	127	1
+81	89	129	1
+82	90	130	1
+83	91	131	1
+82	90	130	1
+81	89	129	1
+81	89	129	1
+84	92	132	1
+81	89	129	1
+79	87	127	1
+79	87	127	1
+82	90	130	1
+83	91	131	1
+82	90	130	1
+78	88	128	1
+79	89	129	1
+78	90	130	1
+79	91	131	1
+80	92	132	1
+80	92	132	1
+80	92	132	1
+80	92	132	1
+79	91	131	1
+83	95	135	1
+82	94	134	1
+81	93	133	1
+80	92	132	1
+78	90	130	1
+77	89	129	1
+76	88	128	1
+73	88	127	1
+75	90	129	1
+75	90	129	1
+78	88	128	1
+79	87	127	1
+80	86	129	1
+78	85	128	1
+75	84	128	1
+69	85	128	1
+61	82	127	1
+152	179	223	1
+144	176	219	1
+146	180	223	1
+156	185	230	1
+164	190	236	1
+165	189	235	1
+168	190	238	1
+168	189	244	1
+170	190	247	1
+175	195	250	1
+180	201	253	1
+187	203	255	1
+192	207	255	1
+194	208	255	1
+196	209	253	1
+205	214	255	1
+206	215	253	1
+207	215	252	1
+210	217	250	1
+215	217	251	1
+217	220	251	1
+220	222	252	1
+221	224	255	1
+222	228	255	1
+218	226	255	1
+215	223	255	1
+213	221	255	1
+211	219	255	1
+210	218	255	1
+211	219	255	1
+211	219	255	1
+210	218	255	1
+211	219	255	1
+211	219	255	1
+211	219	255	1
+211	219	255	1
+210	218	255	1
+209	217	254	1
+207	216	253	1
+208	218	252	1
+206	218	252	1
+206	218	252	1
+206	218	252	1
+206	218	254	1
+206	218	254	1
+206	217	255	1
+206	217	255	1
+209	220	255	1
+208	219	255	1
+208	218	255	1
+207	217	255	1
+206	216	255	1
+205	215	255	1
+204	214	254	1
+203	213	253	1
+205	213	253	1
+206	214	254	1
+206	214	254	1
+207	215	255	1
+208	216	255	1
+208	216	255	1
+209	217	255	1
+209	217	255	1
+200	208	248	1
+204	212	252	1
+207	215	255	1
+209	217	255	1
+208	216	255	1
+207	215	255	1
+207	215	255	1
+207	216	254	1
+207	219	253	1
+208	221	253	1
+209	221	255	1
+209	221	255	1
+208	220	254	1
+207	219	253	1
+205	217	253	1
+204	216	252	1
+204	215	253	1
+203	214	252	1
+202	212	252	1
+201	211	251	1
+201	210	253	1
+201	210	253	1
+201	210	253	1
+202	211	254	1
+202	212	252	1
+202	212	252	1
+203	213	253	1
+203	213	253	1
+203	213	253	1
+204	214	254	1
+204	214	254	1
+204	214	254	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+196	207	251	1
+195	206	250	1
+194	205	249	1
+194	205	249	1
+194	205	249	1
+70	81	119	1
+70	81	119	1
+70	81	119	1
+71	82	120	1
+71	82	120	1
+72	83	121	1
+73	84	122	1
+74	85	123	1
+74	85	123	1
+74	85	123	1
+74	85	123	1
+75	86	124	1
+75	86	124	1
+76	87	125	1
+76	87	125	1
+76	87	125	1
+77	85	125	1
+78	86	126	1
+78	86	126	1
+77	85	125	1
+75	83	123	1
+76	84	124	1
+78	86	126	1
+81	89	129	1
+83	91	131	1
+85	93	133	1
+85	93	133	1
+85	93	133	1
+83	91	131	1
+82	90	130	1
+83	91	131	1
+84	92	132	1
+80	88	128	1
+81	89	129	1
+82	90	130	1
+84	92	132	1
+84	92	132	1
+84	92	132	1
+83	91	131	1
+82	90	130	1
+84	92	132	1
+81	89	129	1
+79	87	127	1
+79	87	127	1
+82	90	130	1
+83	91	131	1
+82	90	130	1
+78	88	128	1
+81	91	131	1
+80	92	132	1
+81	93	133	1
+81	93	133	1
+81	93	133	1
+81	93	133	1
+80	92	132	1
+79	91	131	1
+81	93	133	1
+80	92	132	1
+80	92	132	1
+79	91	131	1
+79	91	131	1
+78	90	130	1
+78	90	130	1
+75	90	129	1
+75	90	129	1
+75	90	129	1
+78	88	128	1
+79	87	127	1
+80	86	129	1
+78	85	128	1
+75	84	128	1
+69	85	128	1
+63	84	129	1
+153	180	224	1
+146	178	221	1
+150	182	225	1
+157	186	231	1
+164	190	236	1
+166	189	235	1
+168	190	238	1
+171	192	244	1
+173	193	248	1
+177	197	252	1
+183	201	254	1
+188	205	255	1
+193	208	255	1
+195	210	255	1
+197	210	254	1
+204	213	255	1
+208	217	255	1
+212	220	255	1
+217	223	255	1
+221	226	255	1
+223	226	255	1
+224	226	255	1
+222	225	255	1
+212	218	253	1
+209	217	254	1
+208	216	253	1
+207	215	252	1
+206	214	251	1
+206	214	251	1
+206	214	251	1
+206	214	251	1
+214	222	255	1
+214	222	255	1
+214	222	255	1
+212	220	255	1
+211	219	255	1
+209	217	254	1
+208	216	253	1
+206	215	252	1
+207	217	251	1
+206	218	252	1
+206	218	252	1
+206	218	252	1
+206	218	254	1
+206	218	254	1
+206	217	255	1
+207	218	255	1
+206	217	255	1
+206	217	255	1
+206	216	255	1
+205	215	255	1
+204	214	254	1
+204	214	254	1
+203	213	253	1
+203	213	253	1
+203	211	251	1
+203	211	251	1
+203	211	251	1
+204	212	252	1
+204	212	252	1
+204	212	252	1
+205	213	253	1
+205	213	253	1
+201	209	249	1
+204	212	252	1
+208	216	255	1
+209	217	255	1
+208	216	255	1
+207	215	255	1
+207	215	255	1
+208	217	255	1
+206	218	252	1
+207	220	252	1
+208	220	254	1
+208	220	254	1
+208	220	254	1
+207	219	253	1
+206	218	254	1
+205	217	253	1
+204	215	253	1
+204	215	253	1
+203	213	253	1
+202	212	252	1
+202	211	254	1
+202	211	254	1
+202	211	254	1
+202	211	254	1
+204	214	254	1
+204	214	254	1
+204	214	254	1
+203	213	253	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+201	211	251	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+200	211	255	1
+199	210	254	1
+199	210	254	1
+198	209	253	1
+198	209	253	1
+71	82	120	1
+71	82	120	1
+71	82	120	1
+72	83	121	1
+73	84	122	1
+74	85	123	1
+74	85	123	1
+74	85	123	1
+71	82	120	1
+72	83	121	1
+72	83	121	1
+72	83	121	1
+73	84	122	1
+73	84	122	1
+73	84	122	1
+74	85	123	1
+76	84	124	1
+77	85	125	1
+78	86	126	1
+76	84	124	1
+74	82	122	1
+74	82	122	1
+76	84	124	1
+78	86	126	1
+81	89	129	1
+82	90	130	1
+84	92	132	1
+84	92	132	1
+83	91	131	1
+82	90	130	1
+84	92	132	1
+86	94	134	1
+82	90	130	1
+83	91	131	1
+84	92	132	1
+85	93	133	1
+85	93	133	1
+85	93	133	1
+84	92	132	1
+84	92	132	1
+82	90	130	1
+81	89	129	1
+79	87	127	1
+79	87	127	1
+81	89	129	1
+82	90	130	1
+81	89	129	1
+79	89	129	1
+83	93	133	1
+81	93	133	1
+82	94	134	1
+82	94	134	1
+82	94	134	1
+81	93	133	1
+80	92	132	1
+80	92	132	1
+79	91	131	1
+79	91	131	1
+79	91	131	1
+79	91	131	1
+79	91	131	1
+79	91	131	1
+79	91	131	1
+77	92	131	1
+75	90	129	1
+75	90	129	1
+78	88	128	1
+79	87	127	1
+80	86	129	1
+79	85	128	1
+75	84	128	1
+69	85	128	1
+65	86	131	1
+158	183	227	1
+151	180	225	1
+153	184	229	1
+158	187	232	1
+166	190	236	1
+168	188	236	1
+170	190	238	1
+173	191	244	1
+175	193	246	1
+179	197	250	1
+185	202	253	1
+188	205	254	1
+192	208	255	1
+194	209	255	1
+196	209	253	1
+203	212	255	1
+208	217	255	1
+215	223	255	1
+221	227	255	1
+225	230	255	1
+223	228	255	1
+222	225	255	1
+218	223	255	1
+209	215	250	1
+208	216	253	1
+209	217	254	1
+209	217	254	1
+209	217	254	1
+209	217	254	1
+208	216	253	1
+208	216	253	1
+208	216	253	1
+208	216	253	1
+208	216	253	1
+207	215	252	1
+206	214	251	1
+205	213	250	1
+205	213	250	1
+203	212	249	1
+207	216	253	1
+205	217	253	1
+205	217	253	1
+206	218	254	1
+206	218	254	1
+207	219	255	1
+207	218	255	1
+207	218	255	1
+204	215	253	1
+204	215	253	1
+204	214	254	1
+203	213	253	1
+203	213	253	1
+203	213	253	1
+203	212	255	1
+203	212	255	1
+207	215	255	1
+207	215	255	1
+206	214	254	1
+206	214	254	1
+206	214	254	1
+206	214	254	1
+205	213	253	1
+205	213	253	1
+201	209	249	1
+204	212	252	1
+207	215	255	1
+208	216	255	1
+208	216	255	1
+207	215	255	1
+207	215	255	1
+208	217	255	1
+205	217	253	1
+205	217	251	1
+206	218	252	1
+207	219	253	1
+207	219	255	1
+207	219	255	1
+206	217	255	1
+206	217	255	1
+205	215	255	1
+205	215	255	1
+204	214	254	1
+203	213	253	1
+202	211	254	1
+203	212	255	1
+203	212	255	1
+203	212	255	1
+205	215	255	1
+205	215	255	1
+204	214	254	1
+203	213	253	1
+202	212	252	1
+200	210	250	1
+199	209	249	1
+199	209	249	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	212	252	1
+202	213	255	1
+201	212	255	1
